@@ -15,5 +15,5 @@ var key = 'AIzaSyBQQwaudPZj6-N-Nx1Vt-AxGwfvXAzLTII'; //API key
 
 //Google Translate
 var translated = app.get('https://translation.googleapis.com/language/translate/v2?q=' + text + '&target=' + target + '&source=' + source + '&key=' + key);
-JSON.stringify(translated);
+
 console.log(translated);
