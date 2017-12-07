@@ -1,0 +1,38 @@
+body {
+     background-color: #003300;
+}
+
+h1 {
+   font-family: 'Eagle Lake', cursive;
+   font-size: 4em;
+   color: #5A916F;
+   margin-left: 20px;
+}
+
+p {
+  font-family: 'Astloch', cursive;
+}
+
+#text {
+  border-radius: 8px;
+  border-style: ridge;
+  border-color: #5A916F;
+  border-width: 10px;
+  color: #733e00;
+  font-size: 1em;
+}
+
+.btn, .language {
+//  color: #733e00;
+  font-family: 'Astloch', cursive;
+  font-weight: bold;
+}
+
+
+#main {
+  margin-left: 20px;
+}
+
+#languageChoice {
+  margin-bottom: 5px;
+}

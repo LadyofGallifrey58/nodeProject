@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crucial-respect-186400",
+  "private_key_id": "8e13064c5c283d70d4928615fd06d6b62f196677",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7vriizy4FTMl6\nAmhtAgPVmZQdwKme1FK78FvxIS4VduHkTrXSb6rh6jYJcBhrfiz6Bn90JFdVPIxC\noERiSzhhHTwWkZsI2m4y2wpGq3q+YqQtc+78x0ZIeZnsSKwdG6+z+Rw6t/vUBVq8\na43OMIPmhtT5ZbzaJ/2Od83sBiF2AfOqB98ASJKoZ4ftu66M+MLSkA2yYv4h+0A8\nVHeE9YEkAUeQfqXtuz3BiINB+rhj/z6Tq1dCqXP0+l+Bi9RHe58r/hIQJgw9So1c\ni5mxYoG2s0Rj6vyGJzk6SfoQUU2umxzjkJA8reN6b+rvuoF+lLGZd8NUT8LW3Rn6\no74CJOuPAgMBAAECggEAClMOrEVgboIugjsnqvb1ZwWvE4PI0Cc09YjeRYBhnGSR\nP5DkhtIFP681kYdMkHy71HQPBkAJXXKa8/8EQ7OHQi/tYgBX2kDI1psdEY3Ujiu2\ng5lghx4eS1YElO3aKS+glfEZEFGV068Hslzny3L3jfHUPHLP099nHjKQbG5Z4Lda\ncuifaxXmbRWE9s4V+uMcGyUwh42JrncYc9GuKQ6UWqTCbisY45EoXDAjAPbq70Ww\nF3WiZct2oR2F9D7tyr6VmJzK9p1PkSgCL+pX+EtNk0bi7FD3gXZl0SLeYxPj+Sg1\nArVKa2oZKJkrp/EFzAy+gRgh6JwMbI0YrOSZT4S0IQKBgQD5YgLVq2wDYTJnNpuN\ndI9peS1bpn+JObeKqdweA4KUoens6050NHsYoyyCCLVvWX03csu+CbpCHaS79/Fg\ntC06C3KDT0y/9DziyDmmo3EPVg8IHN0Y2ROVZhtm7ukf75xJjvWXaKFDKJH1dnXV\naE4zumQCMBUQM8FZWYNceL3hEwKBgQDAugVwfa61I7H/u70yW6ww17sVJ5YWAhCk\nmf13JQ31OrIgwlhSxwcKUJ1pa7WF+SHA3fsG78f0baC3BEjDAznp309aO0nxMF1E\n3d8raKHCCNAegCwFB9zasuPh+uNGG1MOylr2gVTBFlGUynsZ9/op7D5x0R/qkWJp\n1C3c1xxXFQKBgQCjUu46U6dM21YwRJJBZSobUJJFKNjz3Un4VWBkg7X8c8IJON5L\nuqc3rn4St3Nj9n7MVrFax3IlpNZjiHGb/MR19FNN7hx8xo8tkyY2nWoJOjpj/MtM\nX7a0rIebtTIWiU2Y2zi6rXqXyjU1RhzL5CD7PcILsMPKtaqWQsqGQElS4wKBgQCJ\n8xz9nhi1s60vPfR43UFtXJ2e0M0PR78d8tOIus843yCtbi7GYYvaiEWENgKiuOa+\nJKYQGwXnIalOFxT18ZM8ogksrw+IQnQgXSfm7GgMeT5u9pOLrksZh76x/GE9x0U2\nawWdOImwBAe1FxHyTpuT8nPoCCZuQk5NLgD9+ENi2QKBgHuDxxNRJbSBODSOCack\nJE6vKskqEBXQeMbZBBl8kcJlHM+t7yMbYjmi9yHJxtBy5lQ4f2BclzniNHeqXJhv\n+UQJYa4BVWIB0iubGsfyS9Z4wS0+XfwDimJVvDnDFdF1ifTXVY3DMQjRlUUysBYa\nj/oF48w7ht9dta03sciRoQYh\n-----END PRIVATE KEY-----\n",
+  "client_email": "school-project@crucial-respect-186400.iam.gserviceaccount.com",
+  "client_id": "105820363459372653940",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/school-project%40crucial-respect-186400.iam.gserviceaccount.com"
+}
